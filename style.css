@@ -1,0 +1,212 @@
+
+/* bodyyyyyyyyyy */
+
+.hai
+{
+    background-color: rgb(237, 235, 235);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* section111111111111111111111111111111111111111111111 */
+
+
+
+.ha small
+{
+    color: yellow;
+}
+
+
+.ha i
+{
+    color: white;
+}
+
+.ha b
+{
+    color: white;
+}
+
+.oh i
+{
+    font-size: 40px;
+    color: yellow;
+}
+
+
+/* section0000000000000000000000000000000 */
+
+
+.baba li
+{
+    margin-left: 10px;
+
+}
+
+.baba li:hover
+{
+    border: 2px solid white;
+}
+
+
+
+
+
+.baba
+{
+position: relative;
+/* top: 10px; */
+bottom: 7px;
+}
+
+
+
+
+/* sectionn333333333333333333333333333333333333333 */
+
+
+.ranga
+{
+    position: absolute;
+    
+}
+
+
+.nani
+{
+    position: relative;
+    top: 310px;
+}
+
+
+
+/* section4444444444444444444444444444444444444444 */
+.many
+{
+    border: 2px solid white;
+    height: 350px;
+    width: 100%;
+    background-color: rgb(247, 245, 245);
+}
+
+
+/* section555555555555555555555555555555555555555 */
+
+
+
+
+
+
+
+
+/* section99999999999999999999999999999999 */
+
+.ss
+{
+    border: 1px solid rgb(215, 212, 212);
+    height: 250px;
+   margin-left: 20px;
+   border-radius: 5px;
+   background-color: white;
+}
+
+
+
+.bb ul li
+{
+    margin-top: 10px;
+}
+
+
+
+
+/* sectionnn17 171 17 17 17 17 17 171 17 */
+.nn ul li
+{
+    display: inline;
+    list-style: none;
+    margin-left: 10px;
+    color: white;
+    font-size: 12px;
+}
+.nn span
+{
+    color: white;
+    font-size: 12px;
+}
+/* section18 181 81 18 18 */
+.mm ul li
+{
+    font-size: 12px;
+    list-style: none;
+    color: white;
+
+}
+.mm h6
+{
+    margin-left: 30px;
+    font-size: 13px;
+    color: white;
+}
+
+
+/* section202 20  */
+
+
+.ll ul li
+{
+    display: inline;
+    font-size: 13px;
+    color: white;
+}
+.ll p
+{
+   
+    font-size: 12px;
+    color: white;
+    
+}
+
+.gg
+{
+    background-color: #131A22;
+}
+
+
+
+.phone img
+{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.phone img:hover
+{
+transition: .1s;
+border: 3px groove rgb(54, 54, 154);
+}
+
+.qq p
+{
+    font-size: 12px;
+}
